@@ -87,6 +87,6 @@ streamlit run app.py
 
 ## Live Streamlit App
 
-https://ml-assignment2-german-credit.streamlit.app
+<!-- TODO: paste your live Streamlit Community Cloud URL here after deploying (see NEXT_STEPS.md) -->
 
-(Deployed via Streamlit Community Cloud - see Step 6 of the assignment.)
+(Deploy via Streamlit Community Cloud - see Step 6 of the assignment.)
