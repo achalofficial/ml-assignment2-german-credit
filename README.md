@@ -87,6 +87,8 @@ streamlit run app.py
 
 ## Live Streamlit App
 
-<!-- TODO: paste your live Streamlit Community Cloud URL here after deploying (see NEXT_STEPS.md) -->
+https://2026aj05776-a2.streamlit.app/
 
-(Deploy via Streamlit Community Cloud - see Step 6 of the assignment.)
+Deployed via Streamlit Community Cloud. Confirmed working: upload `test_data.csv` from this repo,
+pick a model, and the app displays its metrics, confusion matrix, classification report, and a
+comparison table across all 5 models - all without retraining.
